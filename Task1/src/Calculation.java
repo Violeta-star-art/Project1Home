@@ -9,4 +9,5 @@ public class Calculation {
         int sum = firstDigit + secondDigit;
         System.out.println(sum);
     }
+
 }
