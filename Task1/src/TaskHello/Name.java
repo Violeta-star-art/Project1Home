@@ -6,7 +6,7 @@ public class Name{
             // write your code here
 
             System.out.println("Hello New Project Team!!!");
-            System.out.println("This is Test");
+            System.out.println("This is Real");
             System.out.println("Hope everithing will be ok");
 
 
