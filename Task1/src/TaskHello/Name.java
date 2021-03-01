@@ -7,7 +7,8 @@ public class Name{
 
             System.out.println("Hello New Project Team!!!");
             System.out.println("This is Real");
-            System.out.println("Hope everithing will be ok");
+            System.out.println("Hope everyone is happy");
+            system.out.println("Smile");
 
 
 
